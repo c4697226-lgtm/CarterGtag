@@ -105,7 +105,7 @@ const games = [
         url: "gtag.html",
         width: 810,
         height: 540,
-        thumbnail: "https://static.wikia.nocookie.net/gorillatag/images/e/ed/Gorillatagbanner.png/revision/latest?cb=20241021025111"
+        thumbnail: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvA940rQzS0Rhx0M-LjGkFkeHTrQ--GKyyig&s"
     }
 ];
 
