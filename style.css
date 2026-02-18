@@ -19,7 +19,7 @@ header {
     padding: 25px;
     text-align: center;
     background: rgba(31, 15, 15, 0.8); /* semi-transparent dark red */
-    border-bottom: 3px solid #8b0000; /* crimson line */
+    border-bottom: 3px solid #0F52BA; /* crimson line */
     font-size: 32px;
     letter-spacing: 2px;
     font-weight: bold;
@@ -143,8 +143,8 @@ iframe {
     padding: 10px;
     margin-bottom: 15px;
     border-radius: 6px;
-    border: 2px solid #8b0000;
-    background: #1f0f0f;
+    border: 2px solid #305CDE;
+    background: #000080;
     color: white;
 }
 
