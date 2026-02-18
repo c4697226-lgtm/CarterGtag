@@ -25,7 +25,7 @@ fullscreenBtn.addEventListener("click", () => {
 
 // ---------------- PASSWORD SYSTEM ----------------
 
-const correctPassword = "67";
+const correctPassword = "cartervr";
 
 const loginScreen = document.getElementById("loginScreen");
 const siteContent = document.getElementById("siteContent");
@@ -105,7 +105,7 @@ const games = [
         url: "gtag.html",
         width: 810,
         height: 540,
-        thumbnail: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMWgIRmr1_PK-JOKBAbLveo1O-zfgcyrw2ncdJ006Vte91uo47Jc9uqU5ce3_V53nxsyzZ&s=10"
+        thumbnail: "https://static.wikia.nocookie.net/gorillatag/images/e/ed/Gorillatagbanner.png/revision/latest?cb=20241021025111"
     }
 ];
 
