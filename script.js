@@ -106,6 +106,14 @@ const games = [
         width: 810,
         height: 540,
         thumbnail: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvA940rQzS0Rhx0M-LjGkFkeHTrQ--GKyyig&s"
+    },
+    {
+        name: "Sandtris",
+        description: "Idek how to explain it",
+        url: "Stri.html",
+        width: 810,
+        height: 540,
+        thumbnail: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB9RVMrkCKCOz17NdebE6rppc3D0G7h7Ffcw&s"
     }
 ];
 
