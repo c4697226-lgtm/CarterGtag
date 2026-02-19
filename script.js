@@ -114,6 +114,22 @@ const games = [
         width: 810,
         height: 540,
         thumbnail: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB9RVMrkCKCOz17NdebE6rppc3D0G7h7Ffcw&s"
+    },
+      {
+        name: "Football Bros",
+        description: "yes",
+        url: "FB.html",
+        width: 810,
+        height: 540,
+          thumbnail: "https://i.ytimg.com/vi/LDt7vjXTXMc/sddefault.jpg"
+    },
+    {
+        name: "BaseBall Bros",
+        description: "yes again",
+        url: "Stri.html",
+        width: 810,
+        height: 540,
+        thumbnail: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB9RVMrkCKCOz17NdebE6rppc3D0G7h7Ffcw&s"
     }
 ];
 
