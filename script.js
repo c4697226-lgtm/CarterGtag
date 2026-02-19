@@ -121,15 +121,23 @@ const games = [
         url: "FB.html",
         width: 810,
         height: 540,
-          thumbnail: "https://i.ytimg.com/vi/LDt7vjXTXMc/sddefault.jpg"
+          thumbnail: "https://images.igdb.com/igdb/image/upload/t_cover_big/co951q.webp"
     },
-    {
+      {
         name: "BaseBall Bros",
         description: "yes again",
-        url: "Stri.html",
+        url: "BB.html",
         width: 810,
         height: 540,
-        thumbnail: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB9RVMrkCKCOz17NdebE6rppc3D0G7h7Ffcw&s"
+        thumbnail: "https://i1.sndcdn.com/artworks-VBHhC0ih7qZz6Gnd-4k9qQA-t500x500.png"
+    },
+      {
+        name: "Basketball Bros",
+        description: "yes again again",
+        url: "BB.html",
+        width: 810,
+        height: 540,
+          thumbnail: "https://kevin.games/assets/images/new/basketbros-io.jpg"
     }
 ];
 
