@@ -121,7 +121,7 @@ const games = [
         url: "FB.html",
         width: 810,
         height: 540,
-          thumbnail: "https://images.igdb.com/igdb/image/upload/t_cover_big/co951q.webp"
+        thumbnail: "https://images.igdb.com/igdb/image/upload/t_cover_big/co951q.webp"
     },
       {
         name: "BaseBall Bros",
@@ -137,7 +137,31 @@ const games = [
         url: "BAKB.html",
         width: 810,
         height: 540,
-          thumbnail: "https://kevin.games/assets/images/new/basketbros-io.jpg"
+        thumbnail: "https://kevin.games/assets/images/new/basketbros-io.jpg"
+    },
+      {
+        name: "Drift Hunters",
+        description: "yes",
+        url: "DH.html",
+        width: 810,
+        height: 540,
+        thumbnail: "https://cdn.now.gg/apps-content/com.nowgg.h5.pub501.app51334/icon/drift-hunters.png"
+    },
+      {
+        name: "1v1 lol",
+        description: "yes again",
+        url: "lol.html",
+        width: 810,
+        height: 540,
+        thumbnail: "https://cdn-bgp.bluestacks.com/BGP/us/gametiles_lol.onevone.jpg"
+    },
+      {
+        name: "Drift Boss",
+        description: "yes again again",
+        url: "DB.html",
+        width: 810,
+        height: 540,
+        thumbnail: "https://driftboss2.io/data/image/game/drift-boss.jpg"
     }
 ];
 
