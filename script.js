@@ -156,12 +156,12 @@ const games = [
         thumbnail: "https://cdn-bgp.bluestacks.com/BGP/us/gametiles_lol.onevone.jpg"
     },
       {
-        name: "Drift Boss",
+        name: "untitled",
         description: "yes again again",
-        url: "DB.html",
+        url: "",
         width: 810,
         height: 540,
-        thumbnail: "https://driftboss2.io/data/image/game/drift-boss.jpg"
+        thumbnail: ""
     }
 ];
 
